@@ -1,0 +1,6 @@
+{
+  "name": "UlaTrip Community & Party Hub",
+  "description": "State-wise verified travelers group chat, safe cultural home parties, and public chai & food meetups across India (ulatrip.info).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
